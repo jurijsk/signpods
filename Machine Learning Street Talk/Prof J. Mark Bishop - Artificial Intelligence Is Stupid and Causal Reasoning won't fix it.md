@@ -56,6 +56,22 @@ fenominalogical experience ... or consqiousness
 
 [00:07:31] Ludwig Wittgenstein - 'understanding is not a process of symbol manipulation'
 
+[00:08:20] Dancing with pixies redactio ad absurdum 'Dancing with pixies: strong artificial intelligence and panpyschism,' in Views into the Chinese Room: New Essays on Searle and Artificial Intelligence
+
+[00:08:24] Hilary Putnam 'rich dance of subatomic particles [..] analogious to a state machine going through an infinite serious of non-repeating states'.
+
+[00:11:35] Embodies entity - thinking not only with brain, but with body in the world.
+
+[00:11:49] Alan Turing - Computability - descrite state machine
+
+[00:12:45] non-computability of number Alan Turing
+
+[00:12:51] John Searle - computational system bases on software can not undestand - syntax is not sufficient for semantics, programs are formal, minds have content - computationalizm must be false.  The Chinese room experiment
+
+[00:13:40] Kurt Godel - fitst incompleteness theorem - Godel Sentance
+
+[00:14:18] Anchor by Roger Penrose - mathematical insigh cannot be computable
+
 
 
 
