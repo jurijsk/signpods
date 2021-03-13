@@ -23,5 +23,13 @@ understanding
 fenominalogical experience ... or consqiousness
 
 [00:01:55] Panpsychism
-[00:01:50] _Cells argument_
-[00:02:21] Rodger Penrose
+
+[00:01:50] {{person}} John Searle argument (see later)
+
+[00:02:21] {{person}} Rodger Penrose
+
+[00:03:07] {{concept}} The Chinese room argument - John Searle
+
+[00:03:15] {{startup}} FACT360
+
+[00:03:xx] {{paper}} Artificial Intelligence is stupid and causal reasoning won't fix it John Mark Bishop
