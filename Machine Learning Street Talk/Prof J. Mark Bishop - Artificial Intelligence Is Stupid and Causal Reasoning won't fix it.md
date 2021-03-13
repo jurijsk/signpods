@@ -5,7 +5,9 @@
 
 
 # Guests
-Prof J. Mark Bishop [ln](https://www.linkedin.com/in/profjmarkbishop)
+Prof J. Mark Bishop 
+
+[[ln]](https://www.linkedin.com/in/profjmarkbishop)
 
 # Mentions
 
