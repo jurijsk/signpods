@@ -7,8 +7,18 @@ Dr. Tim Scarfe
 
 [[ln]](https://www.linkedin.com/in/ecsquizor) | [[tw]](https://twitter.com/ecsquendor)
 
+
+Dr. Keith Duggar
+
+[[ln]](https://www.linkedin.com/in/dr-keith-duggar/)
+
+Alex Stenlake
+[[ln]](https://www.linkedin.com/in/alex-stenlake)
+
+
 # Guests
 Prof J. Mark Bishop 
+
 
 [[ln]](https://www.linkedin.com/in/profjmarkbishop)
 
@@ -71,6 +81,8 @@ fenominalogical experience ... or consqiousness
 [00:13:40] Kurt Godel - fitst incompleteness theorem - Godel Sentance
 
 [00:14:18] Anchor by Roger Penrose - mathematical insigh cannot be computable
+
+
 
 
 
