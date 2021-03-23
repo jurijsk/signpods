@@ -21,6 +21,7 @@ Prof J. Mark Bishop
 
 
 [[ln]](https://www.linkedin.com/in/profjmarkbishop)
+[[uni]](https://www.gold.ac.uk/computing/staff/m-bishop/)
 
 # Mentions
 
