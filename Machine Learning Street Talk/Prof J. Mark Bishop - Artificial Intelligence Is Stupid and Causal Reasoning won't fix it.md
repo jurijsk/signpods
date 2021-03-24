@@ -35,7 +35,7 @@ computability
 understanding
 fenominalogical experience ... or consqiousness
 
-[00:01:55] Panpsychism
+[00:01:55] {{concept}} Panpsychism - mind is a feature of reality. Everything have the mind.
 
 [00:01:50] {{person}} John Searle argument (see later)
 
@@ -45,13 +45,13 @@ fenominalogical experience ... or consqiousness
 
 [00:03:15] {{startup}} FACT360
 
-[00:03:35] {{paper}} Artificial Intelligence is stupid and causal reasoning won't fix it John Mark Bishop
+[00:03:35] {{paper}} Artificial Intelligence is stupid and causal reasoning won't fix it - John Mark Bishop
 
 [00:04:24] {{reson}} Francis Crick
 
 [00:04:27] {{concept}} Church–Turing thesis
 
-[00:04:55]  {{idea}} Yoshua Bengio - salient features [[na]](https://www.nature.com/articles/d41586-019-03013-5)
+[00:04:55]  {{concept}} Yoshua Bengio - salient features [[na]](https://www.nature.com/articles/d41586-019-03013-5)
 
 [00:05:14] Dr. Simon Stringer ref:last weeks episode
 
@@ -67,7 +67,7 @@ fenominalogical experience ... or consqiousness
 
 [00:07:31] Ludwig Wittgenstein - 'understanding is not a process of symbol manipulation'
 
-[00:08:20] Dancing with pixies redactio ad absurdum 'Dancing with pixies: strong artificial intelligence and panpyschism,' in Views into the Chinese Room: New Essays on Searle and Artificial Intelligence
+[00:08:20] Dancing with pixies redactio ad absurdum 'Dancing with pixies: strong artificial intelligence and panpsychism,' in Views into the Chinese Room: New Essays on Searle and Artificial Intelligence
 
 [00:08:24] Hilary Putnam 'rich dance of subatomic particles [..] analogious to a state machine going through an infinite serious of non-repeating states'.
 
@@ -82,6 +82,20 @@ fenominalogical experience ... or consqiousness
 [00:13:40] Kurt Godel - fitst incompleteness theorem - Godel Sentance
 
 [00:14:18] Anchor by Roger Penrose - mathematical insigh cannot be computable
+
+[00:15:49] {{paper}} Artificial Intelligence is stupid and causal reasoning won't fix it - John Mark Bishop [[arxiv]](https://arxiv.org/abs/2008.07371) [[rg]](https://www.researchgate.net/publication/343711413_Artificial_Intelligence_is_stupid_and_causal_reasoning_won't_fix_it/)
+
+[00:15:57]  Computationalism / Computational theory of mind [[wiki]](https://en.wikipedia.org/wiki/Computational_theory_of_mind) - cognition and constionstiosness are a form of computation
+
+[00:15:59] {{concept}} Panpsychism - mind is a feature of reality. Everything have the mind. 
+
+[00:16:04] AISB – the UK Society for Artificial Intelligence & the Simulation of Behaviour [[www]][https://aisb.org.uk/]
+[00:16:18] Prof J. Mark Bishop books [](https://amzn.to/31dovzK)
+https://amzn.to/31fYgbO
+https://www.gold.ac.uk/computing/staff/m-bishop/
+
+[00:16:33] IA eschatologists - believers of final event - Ray Kurzweil, Elon Musk, Steven Hawkins
+
 
 
 
