@@ -6,6 +6,8 @@ author: Jurijs Kovzels
 
 ###{{ page['title'] }}
 
+change from git!
+
 It supports **Markdown**. 
 
 **The editor is quite limited. No keyboard shortcuts support.
