@@ -4,9 +4,10 @@ date: 2021-05-17 15:37:00 Z
 author: Jurijs Kovzels
 ---
 
-###{{ page['title'] }}
+### {{ page['title'] }}
 
-change from git!
+
+### change from git!
 
 It supports **Markdown**. 
 
