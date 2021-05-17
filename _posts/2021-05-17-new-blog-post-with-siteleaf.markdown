@@ -9,4 +9,5 @@ tags:
 ---
 
 # Pros
-Tags supports
+* Tags support
+* Categories
