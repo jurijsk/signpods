@@ -4,6 +4,8 @@ date: 2021-05-17 15:37:00 Z
 author: Jurijs Kovzels
 ---
 
+###{{ page['title'] }}
+
 It supports **Markdown**. 
 
 **The editor is quite limited. No keyboard shortcuts support.
