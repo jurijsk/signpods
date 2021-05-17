@@ -7,6 +7,13 @@ auhtor: Jurijs Kovzels
 It supports **Markdown**. 
 ** The editor is quite limited. No keyboard shortcuts support.
 Visual formatting is in beta.**
+
+Can not simply drop the image to the editor.
+![fme.jpg](/uploads/fme.jpg)
+
+no image fomatting.
+
+
 Does not have the option to edit and view the text at the same time.
 
 Permalink supported.
