@@ -20,4 +20,4 @@ Does not have the option to edit and view the text at the same time.
 
 Permalink supported.
 
-{{ page['author'] }}
+{{ page['author'] }} 
