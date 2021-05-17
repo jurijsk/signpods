@@ -7,6 +7,9 @@ auhtor: Jurijs Kovzels
 It supports **Markdown**. 
 ** The editor is quite limited. No keyboard shortcuts support.
 Visual formatting is in beta.**
+
+Can not simply drop image to the editor.
+
 Does not have the option to edit and view the text at the same time.
 
 Permalink supported.
